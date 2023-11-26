@@ -1,7 +1,6 @@
-package helloworld;
+package org.exercism.helloworld;
 
 
-import org.exercism.helloworld.Greeter;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
